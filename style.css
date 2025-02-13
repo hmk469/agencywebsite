@@ -110,6 +110,7 @@
     padding-left: 15px;
 }
 #testimonitals h1{
+    margin-top: 50px;
     margin-bottom: 100px;
 }
 .testimonial img {
@@ -154,7 +155,7 @@
     width: 120px;
     margin-bottom: 20px;
 }
-.footer-box .fa{
+.footer-box i{
     margin-right: 8px;
     font-size: 25px;
     height: 40px;
